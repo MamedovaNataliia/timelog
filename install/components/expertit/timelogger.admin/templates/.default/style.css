@@ -1,0 +1,32 @@
+.color{
+	
+}
+span.link{
+/* 	color: #049BFF; */
+	cursor: pointer;
+}
+span.link:hover{
+
+}
+input[type="number"]{
+	width: 50px;
+}
+table tr.error{
+	background: rgb(255,186,186);
+}
+.checkbox_timelog
+{
+	width:24px;
+	height:24px;
+}
+.panel-body label span
+{
+	margin-left:10px;
+	line-height:32px;
+	font-size:15px;
+	font-weight: 300;
+}
+.checkbox input[type="number"]{
+	margin-left: -20px;
+}
+
